@@ -1,0 +1,113 @@
+/* Header Section */
+header {
+    background-color: #4B284A; /* Deep Plum */
+    color: #F0E1DD; /* Faded Ivory */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-family: Cinzel, Playfair Display;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-family: Open Sans;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  header button {
+    background-color: #B76E79; /* Rose Gold */
+    color: #FFFFFF; /* White */
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+    /* Hero Section */
+    .hero {
+        background-image: url('hero-image.jpg');
+        background-size: cover;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .hero .overlay {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .hero h2 {
+        font-family: Cinzel, Playfair Display;
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    
+    .hero p {
+        font-family: Open Sans;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+/* About Me Section */
+#about {
+    background-color: #F0E1DD; /* Faded Ivory */
+    padding: 40px;
+  }
+  
+  #about .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #about .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  #about .col-md-6 {
+    flex-basis: 50%;
+    padding: 20px;
+  }
+  
+  #about img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  #about h2 {
+    font-family: Playfair Display;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #about p {
+    font-family: Open Sans;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  #about ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #about li {
+    font-family: Open Sans;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
