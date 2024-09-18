@@ -1,11 +1,16 @@
 Profesh with a bit of spice
 
-We can create a fusion of the Hollywood tabloid and dark feminine aesthetic with a professional corporate portfolio. 
-The key is to blend the elegance and mystery of the dark feminine vibe with the structured, polished look of a corporate portfolio, while maintaining a unique, creative touch. 
-Here’s how we can merge these styles:
+So the Home page and About Me will be put together.
+I know how to style the website, but the coding part has got me fuzzy.
+Use the Blackbox AI extension on VS Code to assist you with the coding.
+
+Thanks for the help, really appreciate it <3
+
+Here’s the gist of it:
 ________________________________________
 1. Color Palette:
 To combine both aesthetics, we’ll use rich, moody tones from the dark feminine side but incorporate clean, professional accents to keep it business-friendly.
+
 •	Deep Plum (#4B284A) – A regal, mysterious color for backgrounds or headers. Use it sparingly for impact.
 •	Steel Blue (#4D6372) – A professional, muted tone for accents, buttons, and subtle highlights.
 •	Dusty Rose (#D5A6BD) – A feminine, soft touch for highlights, hover effects, or subtle accents.
